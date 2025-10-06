@@ -4,7 +4,8 @@
 
 - [1. Вводное занятие, основы языка Python (29.09.2025)](Lectures/Lecture%201)
 - [2. Работа в Colab, Воспроизводимость, Git (30.09.2025)](Lectures/Lecture%202)
-- [2. Работа c Numpy, Pandas (03.10.2025)](Lectures/Lecture%203)
+- [3. Работа c Numpy, Pandas (03.10.2025)](Lectures/Lecture%203)
+- [4. Pandas: Изменение данных, визуализации (06.10.2025)](Lectures/Lecture%204)
 
 ### Домашние работы
 
@@ -13,3 +14,4 @@
 |---:|:------|:---------------|:----------------|:--------------------|
 | 1 | [HW1](Homeworks/itmo_ai_minor_python_course_hw1.md) | 08.10.2026 23:59 (MSK) | 15.10.2026 23:59 (MSK) | −50% |
 | 1 | [HW2](Homeworks/itmo_ai_minor_python_course_hw2.md) | 11.10.2026 23:59 (MSK) | 18.10.2026 23:59 (MSK) | −50% |
+| 1 | [HW3](Homeworks/itmo_ai_minor_python_course_hw3.md) | 14.10.2026 23:59 (MSK) | 21.10.2026 23:59 (MSK) | −50% |
