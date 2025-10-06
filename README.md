@@ -14,4 +14,4 @@
 |---:|:------|:---------------|:----------------|:--------------------|
 | 1 | [HW1](Homeworks/itmo_ai_minor_python_course_hw1.md) | 08.10.2026 23:59 (MSK) | 15.10.2026 23:59 (MSK) | −50% |
 | 1 | [HW2](Homeworks/itmo_ai_minor_python_course_hw2.md) | 11.10.2026 23:59 (MSK) | 18.10.2026 23:59 (MSK) | −50% |
-| 1 | [HW3](Homeworks/itmo_ai_minor_python_course_hw3.md) | 14.10.2026 23:59 (MSK) | 21.10.2026 23:59 (MSK) | −50% |
+| 1 | [HW3](Homeworks/itmo_ai_minor_python_course_hw3.md) | 15.10.2026 23:59 (MSK) | 22.10.2026 23:59 (MSK) | −50% |
