@@ -15,6 +15,6 @@
 | № | Ссылка | Баллы | Мягкий дедлайн | Жесткий дедлайн | Штраф после мягкого |
 |---:|:------|:-----:|:---------------|:----------------|:--------------------|
 | 1 | [HW1](Homeworks/itmo_ai_minor_python_course_hw1.md) | 10 | 08.10.2026 23:59 (MSK) | 15.10.2026 23:59 (MSK) | −50% |
-| 1 | [HW2](Homeworks/itmo_ai_minor_python_course_hw2.md) | 10 | 11.10.2026 23:59 (MSK) | 18.10.2026 23:59 (MSK) | −50% |
-| 1 | [HW3](Homeworks/itmo_ai_minor_python_course_hw3.md) | 10 | 15.10.2026 23:59 (MSK) | 22.10.2026 23:59 (MSK) | −50% |
-| 1 | [HW4](Homeworks/itmo_ai_minor_python_course_hw4.md) | 20 | 22.10.2026 23:59 (MSK) | 29.10.2026 23:59 (MSK) | −50% |
+| 2 | [HW2](Homeworks/itmo_ai_minor_python_course_hw2.md) | 10 | 11.10.2026 23:59 (MSK) | 18.10.2026 23:59 (MSK) | −50% |
+| 3 | [HW3](Homeworks/itmo_ai_minor_python_course_hw3.md) | 10 | 15.10.2026 23:59 (MSK) | 22.10.2026 23:59 (MSK) | −50% |
+| 4 | [HW4](Homeworks/itmo_ai_minor_python_course_hw4.md) | 20 | 26.10.2026 23:59 (MSK) | 02.11.2026 23:59 (MSK) | −50% |
